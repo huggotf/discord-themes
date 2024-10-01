@@ -9,13 +9,13 @@
     ],
     "semanticColors":{
        "HEADER_PRIMARY":[
-          "#f3bae5"
+          "#dbc3d5"
        ],
        "HEADER_SECONDARY":[
-          "#e1a9cf"
+          "#dbc3d5"
        ],
        "TEXT_NORMAL":[
-          "#ebe3f7"
+          "#a69fa4"
        ],
        "TEXT_MUTED":[
           "#d07cb4"
@@ -105,7 +105,7 @@
           "#b75057"
        ],
        "KEYBOARD":[
-          "#151c32"
+          "#151515"
        ],
        "CHANNEL_ICON":[
           "#28364d"
